@@ -1,0 +1,19 @@
+{
+  "name": "monday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "loadsh": "0.0.4",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
